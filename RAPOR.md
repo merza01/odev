@@ -37,8 +37,8 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|57 |Not degerlendirmeniz CC ' dir. |Not degerlendirmeniz CC ' dir. |
+|-20 |Girdiginiz not hatalidir |Girdiginiz not hatalidir |
 
 ## Soru 6: Artık Yıl Kontrolü
 
