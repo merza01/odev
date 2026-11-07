@@ -14,7 +14,8 @@ public class Soru05_NotDegerlendirme {
          if (not>=60 && not<=69){ System.out.println("Not degerlendirmeniz CB ' dir.");}
          if (not>=50 && not<=59){ System.out.println("Not degerlendirmeniz CC ' dir.");}
          if (not>=0 && not<=49){ System.out.println("Not degerlendirmeniz FF ' dir.");}
-         else { System.out.println("Girdiginiz not hatalidir.");
+         if (not>100){ System.out.println("Girdiginiz not hatalidir");} 
+         else System.out.println("Girdiginiz not hatalidir");
                
         scanner.close();
     }
