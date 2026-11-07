@@ -44,8 +44,8 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|1800 |Bu yil artik yil degildir |Bu yil artik yil degildir |
+|2024 |Bu yil artik yildir |Bu yil artik yildir |
 
 ## Soru 7: Bölünebilme Kontrolü
 
