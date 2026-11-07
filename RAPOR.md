@@ -31,7 +31,7 @@ Her soru için en az 2 test yazın.
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
 |A sayisi:-5 B sayisi:-10 C sayisi:-1 |En buyuk sayi C sayisidir |En buyuk sayi C sayisidir |
-| | | |
+|A sayisi: 19 B sayisi: 19 C sayisi: 10|En buyuk sayi(lar) A ve B dir |En buyuk sayi(lar) A ve B dir |
 
 ## Soru 5: Not Değerlendirme
 
