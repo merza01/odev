@@ -30,7 +30,7 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
+|A sayisi:-5 B sayisi:-10 C sayisi:-1 |En buyuk sayi C sayisidir |En buyuk sayi C sayisidir |
 | | | |
 
 ## Soru 5: Not Değerlendirme
