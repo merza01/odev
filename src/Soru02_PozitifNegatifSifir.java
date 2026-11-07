@@ -6,14 +6,12 @@ public class Soru02_PozitifNegatifSifir {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // TODO: Girdileri alın
-
-        // TODO: Girdileri kontrol edin (geçersiz giriş / sınır durumları)
-
-        // TODO: Karar yapısını yazın
-
-        // TODO: Sonucu ekrana yazdırın
-
+       System.out.println("Bir sayi giriniz.");
+        int s1 =sc.nextInt();
+        if (s1==0) { System.out.println("Girdiginiz "  +s1+" sayisi sifirdir.");   }                                                                                                                   
+        else if (s1>0) { System.out.println("Girdiginiz "+s1+" sayisi pozitiftir");}
+        else if (s1<0) { System.out.println("Girdiginiz "+s1+" sayisi negatiftir"); }
+        
         scanner.close();
     }
 }
