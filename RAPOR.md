@@ -1,7 +1,7 @@
 # Rapor
 
-**Ad Soyad:**
-**Numara:**
+**Ad Soyad:** Merza Züleyha Kulus
+**Numara:** 690
 
 Her soru için en az 2 test yazın.
 
@@ -9,22 +9,22 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|5|tek |tek |
+|25424 |cift |cift |
 
 ## Soru 2: Pozitif, Negatif veya Sıfır
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|0 |sifir |sifir |
+|-198 |negatif |negatif |
 
 ## Soru 3: İki Sayının Büyüğü
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|sayi1:5 sayi2:12 |2. sayi 1. sayi dan buyuktur | 2. sayi 1. sayidan buyuktur |
+|sayi1:-18 sayi2:-24 |1. sayi 2.sayi dan buyuktur|1. sayi 2. sayidan buyuktur |
 
 ## Soru 4: Üç Sayının En Büyüğü
 
