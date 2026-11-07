@@ -17,6 +17,9 @@ public class Soru04_UcSayininEnBuyugu {
          if (b>c && b>a) { System.out.println("En buyuk sayi B sayisidir");}
          if (c>a && c>b) { System.out.println("En buyuk sayi C sayisidir");}
          if (a==b && a==c && b==c) { System.out.println("Uc sayi esittir");}
+         if (a==b && a>c && b>c) { System.out.println("En buyuk sayi(lar) A ve B dir");}
+         if (c==b && c>a && b>a) { System.out.println("En buyuk sayi(lar) C ve B dir");}
+         if (a==c && a>b && c>b) { System.out.println("En buyuk sayi(lar) A ve C dir");}
         
         scanner.close();
     }
