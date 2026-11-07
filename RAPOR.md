@@ -58,8 +58,8 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|10/0 |bu islem tanimsizdir |bu islem tanimsizdir |
+|15*5 |75 |75 |
 
 ## Soru 9: Üçgen Türü Belirleme
 
