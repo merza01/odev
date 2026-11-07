@@ -65,8 +65,8 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|k1:9 k2:8 k3:7 |bu ucgen cesitkenardir |bu ucgen cesitkenardir |
+|k1:2 k2:2 k3:4 |ucgen olusturulamaz |ucgen olusturulamaz |
 
 ## Soru 10: Haftanın Günü
 
