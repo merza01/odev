@@ -51,8 +51,8 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|16 |Sayi ne 3'e ne 5'e bolunur |Sayi ne 3'e ne 5'e bolunur |
+|75 |Sayi hem 3'e hem 5'e bolunebilir. |Sayi hem 3'e hem 5'e bolunebilir. |
 
 ## Soru 8: Basit Hesap Makinesi
 
