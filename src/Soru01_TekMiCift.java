@@ -6,14 +6,13 @@ public class Soru01_TekMiCift {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // TODO: Girdileri alın
+       System.out.println("Bir sayi giriniz:");
+        int s1 = sc.nextInt();
+        if (s1%2==0) { System.out.println(s1+" Sayisi cifttir.");
+            
+        } else { System.out.println(s1+"Sayisi tektir.");
 
-        // TODO: Girdileri kontrol edin (geçersiz giriş / sınır durumları)
-
-        // TODO: Karar yapısını yazın
-
-        // TODO: Sonucu ekrana yazdırın
-
+        
         scanner.close();
     }
 }
