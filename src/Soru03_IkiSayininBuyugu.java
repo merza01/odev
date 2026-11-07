@@ -13,7 +13,7 @@ public class Soru03_IkiSayininBuyugu {
         
         if (s1>s2){ System.out.println("1. sayi 2. sayidan buyuktur");}
           if (s2>s1){ System.out.println("2. sayi 1. sayidan buyuktur");}
-          else{System.out.println("Iki sayi esittir.");}
+          if (s1==s2) {System.out.println("Iki sayi esittir.");}
         
         scanner.close();
     }
